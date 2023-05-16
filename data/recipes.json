@@ -1,0 +1,731 @@
+[
+    {
+        "id": 1,
+        "chefId": 1,
+        "name": "Spaghetti Carbonara",
+        "image": "https://images.pexels.com/photos/4969892/pexels-photo-4969892.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "spaghetti",
+            "pancetta",
+            "eggs",
+            "pecorino cheese",
+            "black pepper"
+        ],
+        "method": "1. Cook the spaghetti in a pot of boiling salted water until al dente.\n2. While the pasta is cooking, sauté pancetta until crispy.\n3. In a bowl, whisk together eggs, pecorino cheese, and black pepper.\n4. When the pasta is cooked, drain it and add it to the pancetta. Toss to coat.\n5. Turn off the heat, add the egg mixture to the pasta, and toss quickly to combine.\n6. Serve immediately, topped with additional pecorino and black pepper.",
+        "rating": 4.5,
+        "price": 39
+    },
+    {
+        "id": 2,
+        "chefId": 2,
+        "name": "Margherita Pizza",
+        "image": "https://images.pexels.com/photos/14590497/pexels-photo-14590497.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "pizza dough",
+            "tomato sauce",
+            "fresh mozzarella",
+            "basil",
+            "olive oil"
+        ],
+        "method": "1. Preheat the oven to 500°F.\n2. Roll out the pizza dough and place it on a baking sheet.\n3. Spread tomato sauce over the dough.\n4. Tear the fresh mozzarella into pieces and distribute it over the sauce.\n5. Top with fresh basil leaves and a drizzle of olive oil.\n6. Bake for 10-12 minutes, until the crust is golden brown and the cheese is melted and bubbly.\n7. Slice and serve hot.",
+        "rating": 4.8,
+        "price": 19
+    },
+    {
+        "id": 3,
+        "chefId": 3,
+        "name": "Risotto alla Milanese",
+        "image": "https://images.pexels.com/photos/6659610/pexels-photo-6659610.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "Arborio rice",
+            "saffron",
+            "onion",
+            "white wine",
+            "Parmigiano-Reggiano cheese"
+        ],
+        "method": "1. In a large pot, heat some olive oil and sauté chopped onion until translucent.\n2. Add Arborio rice and stir until it's coated in oil and slightly toasted.\n3. Add white wine and stir until it's absorbed by the rice.\n4. Add saffron and enough hot water to cover the rice. Cook, stirring occasionally, until the water is absorbed.\n5. Continue adding hot water and stirring until the rice is cooked to al dente.\n6. Off the heat, stir in grated Parmigiano-Reggiano cheese.\n7. Serve immediately.",
+        "rating": 4.2,
+        "price": 92
+    },
+    {
+        "id": 4,
+        "chefId": 4,
+        "name": "Lasagna Bolognese",
+        "image": "https://images.pexels.com/photos/7218637/pexels-photo-7218637.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "lasagna noodles",
+            "ground beef",
+            "tomato sauce",
+            "ricotta cheese",
+            "mozzarella cheese"
+        ],
+        "method": "1. Cook lasagna noodles in a pot of boiling salted water until al dente.\n2. Brown ground beef in a pan, then add tomato sauce and simmer for 10 minutes.\n3. In a separate bowl, mix together ricotta cheese and shredded mozzarella cheese.\n4. In a baking dish, spread a layer of the meat sauce, then a layer of lasagna noodles, then a layer of the cheese mixture.\n5. Repeat the layers until all the ingredients are used up, ending with a layer of cheese.\n6. Cover the dish with foil and bake at 375°F for 30 minutes.\n7. Remove the foil and bake for an additional 10-15 minutes, until the cheese is melted and bubbly.\n8. Let the lasagna cool for a few minutes before serving.",
+        "rating": 4.6,
+        "price": 64
+    },
+    {
+        "id": 5,
+        "chefId": 5,
+        "name": "Chicken Parmesan",
+        "image": "https://images.pexels.com/photos/14846852/pexels-photo-14846852.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "boneless, skinless chicken breasts",
+            "breadcrumbs",
+            "egg",
+            "tomato sauce",
+            "mozzarella cheese"
+        ],
+        "method": "1. Preheat the oven to 375°F.\n2. Pound the chicken breasts to an even thickness, then coat them in breadcrumbs.\n3. Beat an egg in a bowl and dip each chicken breast in the egg.\n4. Heat some olive oil in a pan and cook the chicken until golden brown on both sides.\n5. Transfer the chicken to a baking dish and top with tomato sauce and sliced mozzarella cheese.\n6. Bake for 15-20 minutes, until the cheese is melted and bubbly.\n7. Serve hot.",
+        "rating": 4.3,
+        "price": 43
+    },
+    {
+        "id": 6,
+        "chefId": 6,
+        "name": "Pesto Pasta",
+        "image": "https://images.pexels.com/photos/4162492/pexels-photo-4162492.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "pasta",
+            "fresh basil",
+            "garlic",
+            "pine nuts",
+            "Parmigiano-Reggiano cheese"
+        ],
+        "method": "1. Cook pasta in a pot of boiling salted water until al dente.\n2. In a food processor, combine fresh basil, garlic, pine nuts, and Parmigiano-Reggiano cheese. Pulse until smooth.\n3. Drain the pasta and return it to the pot.\n4. Toss the pasta with the pesto sauce.\n5. Serve hot.",
+        "rating": 4.1,
+        "price": 60
+    },
+    {
+        "id": 7,
+        "chefId": 7,
+        "name": "Bruschetta",
+        "image": "https://images.pexels.com/photos/6605644/pexels-photo-6605644.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "baguette",
+            "tomatoes",
+            "garlic",
+            "olive oil",
+            "basil"
+        ],
+        "method": "1. Preheat the oven to 400°F.\n2. Slice a baguette into thin rounds and place them on a baking sheet.\n3. Drizzle the bread with olive oil and bake for 5-7 minutes, until lightly toasted.\n4. Chop tomatoes and garlic and mix them together in a bowl.\n5. Top each toast with the tomato mixture.\n6. Garnish with fresh basil leaves and a drizzle of olive oil.\n7. Serve immediately.",
+        "rating": 4.4,
+        "price": 96
+    },
+    {
+        "id": 8,
+        "chefId": 8,
+        "name": "Gnocchi alla Sorrentina",
+        "image": "https://images.pexels.com/photos/3590401/pexels-photo-3590401.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "gnocchi",
+            "tomato sauce",
+            "mozzarella cheese",
+            "basil",
+            "Parmigiano-Reggiano cheese"
+        ],
+        "method": "1. Cook gnocchi in a pot of boiling salted water until they float to the surface.\n2. In a separate pot, heat tomato sauce.\n3. In a baking dish, mix together the gnocchi and tomato sauce.\n4. Top the mixture with sliced mozzarella cheese and fresh basil leaves.\n5. Grate some Parmigiano-Reggiano cheese over the top.\n6. Bake at 375°F for 15-20 minutes, until the cheese is melted and bubbly.\n7. Serve hot.",
+        "rating": 4.2,
+        "price": 62
+    },
+    {
+        "id": 9,
+        "chefId": 1,
+        "name": "Spaghetti Carbonara",
+        "image": "https://images.pexels.com/photos/5710173/pexels-photo-5710173.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "spaghetti",
+            "bacon",
+            "eggs",
+            "Parmigiano-Reggiano cheese",
+            "black pepper"
+        ],
+        "method": "1. Cook spaghetti in a pot of boiling salted water until al dente.\n2. In a pan, cook bacon until crispy.\n3. In a bowl, whisk together eggs, grated Parmigiano-Reggiano cheese, and black pepper.\n4. Drain the spaghetti and add it to the pan with the bacon.\n5. Pour the egg mixture over the spaghetti and toss until the spaghetti is coated.\n6. Serve hot.",
+        "rating": 4.5,
+        "price": 83
+    },
+    {
+        "id": 10,
+        "chefId": 2,
+        "name": "Minestrone Soup",
+        "image": "https://images.pexels.com/photos/539451/pexels-photo-539451.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "vegetable broth",
+            "canned tomatoes",
+            "carrots",
+            "celery",
+            "zucchini"
+        ],
+        "method": "1. In a pot, bring vegetable broth and canned tomatoes to a boil.\n2. Add chopped carrots, celery, and zucchini.\n3. Reduce heat and let simmer for 20-25 minutes, until vegetables are tender.\n4. Serve hot.",
+        "rating": 4.0,
+        "price": 94
+    },
+    {
+        "id": 11,
+        "chefId": 3,
+        "name": "Tiramisu",
+        "image": "https://images.pexels.com/photos/14766327/pexels-photo-14766327.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "ladyfingers",
+            "espresso",
+            "Marsala wine",
+            "mascarpone cheese",
+            "cocoa powder"
+        ],
+        "method": "1. Brew a strong cup of espresso and mix in Marsala wine.\n2. Dip ladyfingers in the espresso mixture and arrange them in a dish.\n3. In a separate bowl, mix together mascarpone cheese and sugar until smooth.\n4. Spread a layer of the cheese mixture over the ladyfingers.\n5. Repeat the layers until all the ingredients are used up, ending with a layer of cheese.\n6. Dust the top with cocoa powder.\n7. Refrigerate for at least 2 hours before serving.",
+        "rating": 4.8,
+        "price": 83
+    },
+    {
+        "id": 12,
+        "chefId": 4,
+        "name": "Pizza Margherita",
+        "image": "https://images.pexels.com/photos/7474114/pexels-photo-7474114.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "pizza dough",
+            "tomato sauce",
+            "mozzarella cheese",
+            "fresh basil",
+            "olive oil"
+        ],
+        "method": "1. Preheat the oven to 500°F.\n2. Stretch pizza dough into a round shape and place it on a baking sheet.\n3. Spread tomato sauce over the dough, leaving a small border around the edges.\n4. Top the sauce with sliced mozzarella cheese.\n5. Bake for 10-12 minutes, until the crust is crispy and the cheese is melted.\n6. Garnish with fresh basil leaves and a drizzle of olive oil.\n7. Serve hot.",
+        "rating": 4.6,
+        "price": 93
+    },
+    {
+        "id": 13,
+        "chefId": 4,
+        "name": "Osso Buco",
+        "image": "data:image/jpeg;base64,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",
+        "ingredients": [
+            "veal shanks",
+            "onion",
+            "carrots",
+            "celery",
+            "tomato paste"
+        ],
+        "method": "1. Heat oil in a large pot or Dutch oven.\n2. Season the veal shanks with salt and pepper and brown them in the pot.\n3. Remove the shanks and set them aside.\n4. In the same pot, sauté chopped onion, carrots, and celery until soft.\n5. Add tomato paste and cook for 1-2 minutes.\n6. Return the veal shanks to the pot and pour in enough beef broth to cover the meat.\n7. Bring to a simmer, then cover and cook over low heat for 2-3 hours, until the meat is tender and falling off the bone.\n8. Serve hot, garnished with gremolata (a mixture of chopped parsley, garlic, and lemon zest).",
+        "rating": 4.4,
+        "price": 73
+    },
+    {
+        "id": 14,
+        "chefId": 5,
+        "name": "Risotto",
+        "image": "https://images.pexels.com/photos/921362/pexels-photo-921362.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "arborio rice",
+            "onion",
+            "Parmigiano-Reggiano cheese",
+            "white wine",
+            "chicken broth"
+        ],
+        "method": "1. Heat chicken broth in a pot and keep it simmering.\n2. In a separate pan, sauté chopped onion until soft.\n3. Add arborio rice and stir until the grains are coated in oil.\n4. Pour in white wine and stir until the liquid is absorbed.\n5. Add a ladleful of hot broth to the rice and stir until the liquid is absorbed.\n6. Repeat step 5 until the rice is cooked al dente (about 20 minutes).\n7. Stir in grated Parmigiano-Reggiano cheese and season with salt and pepper.\n8. Serve hot.",
+        "rating": 4.2,
+        "price": 67
+    },
+    {
+        "id": 15,
+        "chefId": 6,
+        "name": "Focaccia Bread",
+        "image": "https://images.pexels.com/photos/13673954/pexels-photo-13673954.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "flour",
+            "water",
+            "yeast",
+            "olive oil",
+            "rosemary"
+        ],
+        "method": "1. In a large bowl, combine flour, yeast, and salt.\n2. Mix in warm water and olive oil until the dough comes together.\n3. Knead the dough on a floured surface until smooth and elastic.\n4. Place the dough in a greased bowl, cover with a towel, and let rise for 1-2 hours.\n5. Preheat the oven to 450°F.\n6. Punch down the dough and stretch it into a rectangle on a baking sheet.\n7. Drizzle olive oil over the top and sprinkle with chopped rosemary.\n8. Bake for 15-20 minutes, until golden brown.\n9. Serve hot or at room temperature.",
+        "rating": 4.3,
+        "price": 87
+    },
+    {
+        "id": 16,
+        "chefId": 7,
+        "name": "Tortellini Alfredo",
+        "image": "https://images.pexels.com/photos/11220208/pexels-photo-11220208.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "tortellini",
+            "heavy cream",
+            "Parmigiano-Reggiano cheese",
+            "butter",
+            "garlic"
+        ],
+        "method": "1. Cook tortellini according to package instructions.\n2. In a saucepan, melt butter and sauté minced garlic until fragrant.\n3. Add heavy cream and grated Parmigiano-Reggiano cheese and stir until the cheese is melted and the sauce is smooth.\n4. Drain the cooked tortellini and add it to the sauce.\n5. Stir until the pasta is coated in sauce.\n6. Serve hot, garnished with chopped parsley and additional grated Parmigiano-Reggiano cheese.",
+        "rating": 4.5,
+        "price": 87
+    },
+    {
+        "id": 17,
+        "chefId": 8,
+        "name": "Panna Cotta",
+        "image": "https://images.pexels.com/photos/14732341/pexels-photo-14732341.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "heavy cream",
+            "milk",
+            "sugar",
+            "gelatin",
+            "vanilla extract"
+        ],
+        "method": "1. In a saucepan, heat heavy cream, milk, sugar, and vanilla extract until the sugar is dissolved.\n2. Remove the pan from heat and stir in softened gelatin until it is completely dissolved.\n3. Pour the mixture into ramekins or molds and chill in the refrigerator for 4 hours or until set.\n4. To serve, run a knife around the edge of each panna cotta and invert onto a plate.\n5. Serve cold, garnished with fresh fruit or berry sauce.",
+        "rating": 4.8,
+        "price": 78
+    },
+    {
+        "id": 18,
+        "chefId": 1,
+        "name": "Lasagna",
+        "image": "https://images.pexels.com/photos/4079520/pexels-photo-4079520.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "lasagna noodles",
+            "ground beef",
+            "onion",
+            "garlic",
+            "tomato sauce",
+            "ricotta cheese",
+            "mozzarella cheese",
+            "Parmigiano-Reggiano cheese"
+        ],
+        "method": "1. Preheat oven to 375°F (190°C).\n2. Cook lasagna noodles according to package directions and set aside.\n3. In a large skillet, cook ground beef, onion, and garlic over medium heat until the beef is browned and the onion is soft.\n4. Stir in tomato sauce and simmer for 10 minutes.\n5. In a separate bowl, mix together ricotta cheese, mozzarella cheese, and Parmigiano-Reggiano cheese.\n6. In a 9x13 inch baking dish, layer noodles, meat sauce, and cheese mixture until all ingredients are used up, ending with a layer of cheese on top.\n7. Cover with foil and bake for 25 minutes.\n8. Remove foil and bake for an additional 25 minutes or until the cheese is melted and bubbly.\n9. Let stand for 10 minutes before slicing and serving.",
+        "rating": 4.6,
+        "price": 54
+    },
+    {
+        "id": 19,
+        "chefId": 2,
+        "name": "Risotto",
+        "image": "https://images.pexels.com/photos/998244/pexels-photo-998244.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "arborio rice",
+            "chicken broth",
+            "white wine",
+            "shallot",
+            "butter",
+            "Parmigiano-Reggiano cheese"
+        ],
+        "method": "1. In a large saucepan, heat chicken broth until it simmers.\n2. In a separate saucepan, melt butter and sauté chopped shallot until soft and translucent.\n3. Add arborio rice to the shallot and stir until the rice is coated with butter.\n4. Pour in white wine and stir until it is absorbed by the rice.\n5. Add hot chicken broth, 1/2 cup at a time, stirring constantly until each addition is absorbed before adding more.\n6. Continue to add broth and stir until the rice is tender but still firm to the bite (about 20 minutes).\n7. Stir in grated Parmigiano-Reggiano cheese and serve hot.",
+        "rating": 4.4,
+        "price": 34
+    },
+    {
+        "id": 20,
+        "chefId": 2,
+        "name": "Spaghetti Carbonara",
+        "image": "https://images.pexels.com/photos/5710178/pexels-photo-5710178.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "spaghetti",
+            "pancetta",
+            "garlic",
+            "eggs",
+            "Parmigiano-Reggiano cheese",
+            "black pepper"
+        ],
+        "method": "1. Cook spaghetti according to package directions and set aside.\n2. In a large skillet, cook diced pancetta over medium heat until it is crispy.\n3. Add minced garlic and cook for an additional minute.\n4. In a separate bowl, whisk together eggs, grated Parmigiano-Reggiano cheese, and black pepper.\n5. Add the cooked spaghetti to the skillet with the pancetta and garlic and toss until the pasta is coated with the fat.\n6. Remove the skillet from heat and add the egg mixture, stirring quickly to prevent the eggs from scrambling.\n7. Serve hot, garnished with additional grated Parmigiano-Reggiano cheese and black pepper.",
+        "rating": 4.7,
+        "price": 23
+    },
+    {
+        "id": 21,
+        "chefId": 3,
+        "name": "Gnocchi",
+        "image": "https://images.pexels.com/photos/6659557/pexels-photo-6659557.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "potatoes",
+            "all-purpose flour",
+            "egg",
+            "salt",
+            "Parmigiano-Reggiano cheese",
+            "butter",
+            "sage leaves"
+        ],
+        "method": "1. Boil potatoes in their skins until they are tender, about 25-30 minutes.\n2. Let potatoes cool slightly, then peel them and mash them until they are smooth.\n3. Add all-purpose flour, egg, and salt to the potato mixture and knead until the dough comes together.\n4. Divide the dough into 4 parts and roll each part into a long, thin rope.\n5. Cut each rope into small pieces and press each piece with a fork to make ridges.\n6. Bring a large pot of salted water to a boil and cook the gnocchi in batches until they float to the surface, about 3-5 minutes.\n7. In a separate saucepan, melt butter and sauté sage leaves until they are crispy.\n8. Serve gnocchi hot, topped with the sage butter and grated Parmigiano-Reggiano cheese.",
+        "rating": 4.5,
+        "price": 78
+    },
+    {
+        "id": 22,
+        "chefId": 3,
+        "name": "Osso Buco",
+        "image": "data:image/jpeg;base64,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",
+        "ingredients": [
+            "veal shanks",
+            "onion",
+            "carrot",
+            "celery",
+            "garlic",
+            "tomato paste",
+            "beef broth",
+            "white wine",
+            "lemon zest",
+            "parsley",
+            "olive oil",
+            "salt",
+            "black pepper"
+        ],
+        "method": "1. Preheat oven to 325°F (165°C).\n2. Season veal shanks with salt and black pepper.\n3. In a large Dutch oven, heat olive oil and brown the veal shanks on all sides.\n4. Remove veal shanks from the Dutch oven and set aside.\n5. In the same Dutch oven, sauté chopped onion, carrot, celery, and minced garlic until the vegetables are soft.\n6. Stir in tomato paste and cook for an additional minute.\n7. Add beef broth and white wine and bring to a simmer.\n8. Return the veal shanks to the Dutch oven and spoon the sauce over them.\n9. Cover the Dutch oven with a lid and bake in the oven for 2-3 hours, or until the meat is falling off the bone.\n10. Serve hot, garnished with lemon zest and chopped parsley.",
+        "rating": 4.8,
+        "price": 97
+    },
+    {
+        "id": 23,
+        "chefId": 4,
+        "name": "Pizza Margherita",
+        "image": "https://images.pexels.com/photos/7474114/pexels-photo-7474114.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "pizza dough",
+            "tomato sauce",
+            "mozzarella cheese",
+            "fresh basil leaves",
+            "olive oil",
+            "salt"
+        ],
+        "method": "1. Preheat oven to 500°F (260°C).\n2. Stretch pizza dough into a round shape and place on a pizza stone or baking sheet.\n3. Spread tomato sauce evenly over the dough, leaving a small border around the edges.\n4. Sprinkle shredded mozzarella cheese over the tomato sauce.\n5. Tear fresh basil leaves into small pieces and sprinkle over the cheese.\n6. Drizzle olive oil over the pizza and sprinkle with a pinch of salt.\n7. Bake pizza in the preheated oven for 10-15 minutes, or until the crust is golden brown and the cheese is melted and bubbly.\n8. Remove pizza from the oven and let cool for a few minutes before slicing and serving hot.",
+        "rating": 4.9,
+        "price": 45
+    },
+    {
+        "id": 24,
+        "chefId": 4,
+        "name": "Pesto Pasta",
+        "image": "https://images.pexels.com/photos/4162492/pexels-photo-4162492.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "pasta",
+            "fresh basil leaves",
+            "Parmesan cheese",
+            "garlic",
+            "pine nuts",
+            "olive oil",
+            "salt",
+            "black pepper"
+        ],
+        "method": "1. Cook pasta according to package instructions until al dente.\n2. In a food processor, pulse together fresh basil leaves, grated Parmesan cheese, minced garlic, and pine nuts until finely chopped.\n3. With the food processor running, slowly drizzle in olive oil until the pesto is smooth and creamy.\n4. Season pesto with salt and black pepper to taste.\n5. Drain cooked pasta and reserve a cup of the pasta water.\n6. Toss pasta with pesto, adding pasta water as needed to thin out the sauce.\n7. Serve hot, topped with additional grated Parmesan cheese if desired.",
+        "rating": 4.7,
+        "price": 87
+    },
+    {
+        "id": 25,
+        "chefId": 4,
+        "name": "Chicken Parmesan",
+        "image": "https://images.pexels.com/photos/14846852/pexels-photo-14846852.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "chicken breasts",
+            "all-purpose flour",
+            "egg",
+            "breadcrumbs",
+            "Parmesan cheese",
+            "mozzarella cheese",
+            "tomato sauce",
+            "olive oil",
+            "salt",
+            "black pepper"
+        ],
+        "method": "1. Preheat oven to 400°F (200°C).\n2. Pound chicken breasts to an even thickness.\n3. Set up a breading station with all-purpose flour in one dish, beaten egg in another dish, and breadcrumbs mixed with grated Parmesan cheese in a third dish.\n4. Dredge chicken breasts in flour, then dip in egg, and coat with breadcrumb mixture.\n5. Heat olive oil in a large skillet over medium-high heat.\n6. Sauté chicken breasts in the skillet until golden brown on both sides, about 3-4 minutes per side.\n7. Transfer chicken breasts to a baking dish and top with tomato sauce and shredded mozzarella cheese.\n8. Bake in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly and the chicken is cooked through.\n9. Serve hot, garnished with fresh chopped parsley if desired.",
+        "rating": 4.6,
+        "price": 66
+    },
+    {
+        "id": 26,
+        "chefId": 4,
+        "name": "Tiramisu",
+        "image": "https://images.pexels.com/photos/14766327/pexels-photo-14766327.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "ladyfingers",
+            "mascarpone cheese",
+            "eggs",
+            "sugar",
+            "coffee",
+            "rum",
+            "cocoa powder"
+        ],
+        "method": "1. Brew strong coffee and stir in rum.\n2. Dip ladyfingers in the coffee mixture, turning to coat both sides.\n3. Arrange the soaked ladyfingers in a single layer in the bottom of a serving dish.\n4. In a large mixing bowl, beat together mascarpone cheese, egg yolks, and sugar until smooth.\n5. In a separate mixing bowl, beat egg whites until stiff peaks form.\n6. Gently fold egg whites into the mascarpone mixture until fully combined.\n7. Spread half of the mascarpone mixture over the layer of soaked ladyfingers.\n8. Repeat with another layer of soaked ladyfingers and the remaining mascarpone mixture.\n9. Cover the dish with plastic wrap and refrigerate for at least 2 hours, or overnight.\n10. Just before serving, sprinkle cocoa powder over the top of the tiramisu.\n11. Serve chilled.",
+        "rating": 4.8,
+        "price": 64
+    },
+    {
+        "id": 27,
+        "chefId": 5,
+        "name": "Caprese Salad",
+        "image": "https://images.pexels.com/photos/13241736/pexels-photo-13241736.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "tomatoes",
+            "fresh mozzarella cheese",
+            "fresh basil leaves",
+            "olive oil",
+            "balsamic vinegar",
+            "salt",
+            "black pepper"
+        ],
+        "method": "1. Slice tomatoes and fresh mozzarella cheese into even slices.\n2. Arrange tomato and mozzarella slices on a serving platter, alternating them.\n3. Top with fresh basil leaves.\n4. Drizzle olive oil and balsamic vinegar over the top of the salad.\n5. Season with salt and black pepper to taste.\n6. Serve immediately.",
+        "rating": 4.5,
+        "price": 34
+    },
+    {
+        "id": 28,
+        "chefId": 5,
+        "name": "Minestrone Soup",
+        "image": "https://images.pexels.com/photos/539451/pexels-photo-539451.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "olive oil",
+            "onion",
+            "carrot",
+            "celery",
+            "garlic",
+            "tomatoes",
+            "vegetable broth",
+            "zucchini",
+            "green beans",
+            "cannellini beans",
+            "pasta",
+            "Parmesan cheese",
+            "salt",
+            "black pepper"
+        ],
+        "method": "1. Heat olive oil in a large pot over medium heat.\n2. Add diced onion, carrot, and celery and sauté until softened, about 5 minutes.\n3. Add minced garlic and cook for an additional minute.\n4. Add diced tomatoes and vegetable broth to the pot.\n5. Bring to a boil, then reduce heat and let simmer for 10 minutes.\n6. Add diced zucchini, green beans, and drained and rinsed cannellini beans to the pot.\n7. Simmer for an additional 15 minutes, or until vegetables are tender.\n8. Stir in uncooked pasta and let cook for 10-12 minutes, or until pasta is al dente.\n9. Season with grated Parmesan cheese, salt, and black pepper to taste.\n10. Serve hot, garnished with additional grated Parmesan cheese if desired.",
+        "rating": 4.7,
+        "price": 76
+    },
+    {
+        "id": 29,
+        "chefId": 5,
+        "name": "Pesto Chicken",
+        "image": "https://images.pexels.com/photos/15029899/pexels-photo-15029899.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "chicken breasts",
+            "pesto",
+            "Parmesan cheese",
+            "olive oil",
+            "salt",
+            "black pepper"
+        ],
+        "method": "1. Preheat oven to 375°F (190°C).\n2. Place chicken breasts in a baking dish and spread pesto over the top of each breast.\n3. Sprinkle grated Parmesan cheese over the pesto.\n4. Drizzle with olive oil and season with salt and black pepper to taste.\n5. Bake in the preheated oven for 25-30 minutes, or until the chicken is cooked through.\n6. Serve hot, garnished with fresh chopped parsley if desired.",
+        "rating": 4.6,
+        "price": 78
+    },
+    {
+        "id": 30,
+        "chefId": 5,
+        "name": "Spaghetti Carbonara",
+        "image": "https://images.pexels.com/photos/5710173/pexels-photo-5710173.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "spaghetti",
+            "pancetta",
+            "garlic",
+            "eggs",
+            "Parmesan cheese",
+            "black pepper",
+            "salt"
+        ],
+        "method": "1. Cook spaghetti according to package instructions, until al dente.\n2. While spaghetti is cooking, dice pancetta and sauté in a large skillet over medium heat until crispy.\n3. Mince garlic and add it to the skillet with the pancetta, cooking until fragrant.\n4. In a bowl, whisk together eggs, grated Parmesan cheese, black pepper, and salt.\n5. When the spaghetti is done, drain it and reserve a cup of the pasta water.\n6. Add the spaghetti to the skillet with the pancetta and garlic, tossing to combine.\n7. Remove the skillet from the heat and pour the egg mixture over the spaghetti, stirring quickly to combine and coat the spaghetti.\n8. If the pasta seems too dry, add some of the reserved pasta water a little at a time, until desired consistency is reached.\n9. Serve hot, garnished with additional grated Parmesan cheese and black pepper if desired.",
+        "rating": 4.9,
+        "price": 76
+    },
+    {
+        "id": 31,
+        "chefId": 6,
+        "name": "Eggplant Parmesan",
+        "image": "https://images.pexels.com/photos/2092906/pexels-photo-2092906.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "eggplant",
+            "flour",
+            "eggs",
+            "breadcrumbs",
+            "olive oil",
+            "marinara sauce",
+            "mozzarella cheese",
+            "Parmesan cheese",
+            "basil leaves",
+            "salt",
+            "black pepper"
+        ],
+        "method": "1. Preheat oven to 375°F (190°C).\n2. Slice eggplant into even rounds.\n3. In three separate bowls, place flour, beaten eggs, and breadcrumbs.\n4. Dip each eggplant slice first in the flour, then in the beaten egg, and finally in the breadcrumbs, pressing gently to coat well.\n5. Heat olive oil in a large skillet over medium heat.\n6. Add the breaded eggplant slices to the skillet and cook until golden brown on each side.\n7. Remove the eggplant slices from the skillet and place them on a paper towel-lined plate to remove excess oil.\n8. In a baking dish, spread a layer of marinara sauce on the bottom.\n9. Add a layer of the cooked eggplant slices on top of the sauce.\n10. Sprinkle shredded mozzarella cheese and grated Parmesan cheese over the eggplant slices.\n11. Add another layer of marinara sauce, followed by another layer of eggplant slices and cheese.\n12. Continue layering until all the eggplant slices are used, ending with a layer of cheese.\n13. Bake in the preheated oven for 25-30 minutes, or until cheese is melted and bubbly.\n14. Garnish with fresh basil leaves and serve hot.",
+        "rating": 4.7,
+        "price": 76
+    },
+    {
+        "id": 32,
+        "chefId": 6,
+        "name": "Risotto",
+        "image": "https://images.pexels.com/photos/921362/pexels-photo-921362.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "olive oil",
+            "onion",
+            "arborio rice",
+            "white wine",
+            "vegetable broth",
+            "Parmesan cheese",
+            "salt",
+            "black pepper"
+        ],
+        "method": "1. Heat olive oil in a large saucepan over medium heat.\n2. Add diced onion and sauté until softened, about 5 minutes.\n3. Add arborio rice to the saucepan and stir to coat with the oil and onions.\n4. Add white wine and cook, stirring constantly, until the wine is absorbed.\n5. Begin adding the vegetable broth to the rice mixture, one ladleful at a time, stirring constantly and waiting for the broth to be absorbed before adding more.\n6. Continue adding broth and stirring until the rice is cooked to your liking (it should be creamy but not mushy), which should take about 20-30 minutes.\n7. Remove the saucepan from heat and stir in grated Parmesan cheese.\n8. Season with salt and black pepper to taste.\n9. Serve hot as a side dish or main course.",
+        "rating": 4.6,
+        "price": 23
+    },
+    {
+        "id": 33,
+        "chefId": 7,
+        "name": "Lasagna",
+        "image": "https://images.pexels.com/photos/4079520/pexels-photo-4079520.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "lasagna noodles",
+            "ground beef",
+            "onion",
+            "garlic",
+            "tomato sauce",
+            "tomato paste",
+            "water",
+            "dried basil",
+            "dried oregano",
+            "salt",
+            "black pepper",
+            "ricotta cheese",
+            "mozzarella cheese",
+            "Parmesan cheese"
+        ],
+        "method": "1. Preheat oven to 375°F (190°C).\n2. Cook lasagna noodles according to package instructions, until al dente.\n3. While noodles are cooking, brown ground beef in a large skillet over medium-high heat, breaking it up with a spoon.\n4. Add diced onion and minced garlic to the skillet with the beef, cooking until onion is translucent.\n5. Add tomato sauce, tomato paste, and water to the skillet, stirring to combine.\n6. Season with dried basil, dried oregano, salt, and black pepper to taste.\n7. In a separate bowl, mix together ricotta cheese, shredded mozzarella cheese, and grated Parmesan cheese.\n8. Spread a layer of the beef mixture in the bottom of a baking dish.\n9. Add a layer of cooked lasagna noodles on top of the beef mixture.\n10. Spread a layer of the cheese mixture on top of the noodles.\n11. Repeat layers of beef mixture, noodles, and cheese mixture until all ingredients are used, ending with a layer of cheese mixture.\n12. Cover the baking dish with aluminum foil and bake in the preheated oven for 25-30 minutes.\n13. Remove the foil and bake for an additional 10-15 minutes, or until cheese is melted and bubbly.\n14. Let the lasagna cool for a few minutes before slicing and serving.",
+        "rating": 4.8,
+        "price": 67
+    },
+    {
+        "id": 34,
+        "chefId": 7,
+        "name": "Chicken Parmesan",
+        "image": "https://images.pexels.com/photos/14846852/pexels-photo-14846852.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "chicken breasts",
+            "flour",
+            "eggs",
+            "breadcrumbs",
+            "olive oil",
+            "marinara sauce",
+            "mozzarella cheese",
+            "Parmesan cheese",
+            "basil leaves",
+            "salt",
+            "black pepper"
+        ],
+        "method": "1. Preheat oven to 375°F (190°C).\n2. Place flour in a shallow dish.\n3. Beat eggs in a second shallow dish.\n4. Place breadcrumbs in a third shallow dish.\n5. Season chicken breasts with salt and black pepper.\n6. Dredge each chicken breast in the flour, then dip in the beaten eggs, and finally coat in the breadcrumbs.\n7. Heat olive oil in a large skillet over medium-high heat.\n8. Add the breaded chicken breasts to the skillet and cook until golden brown on both sides, about 3-4 minutes per side.\n9. Remove the chicken from the skillet and place on a baking sheet.\n10. Spoon marinara sauce over each chicken breast.\n11. Top each chicken breast with shredded mozzarella cheese and grated Parmesan cheese.\n12. Bake in the preheated oven for 15-20 minutes, or until cheese is melted and bubbly.\n13. Remove from oven and let cool for a few minutes before garnishing with fresh basil leaves and serving.",
+        "rating": 4.7,
+        "price": 64
+    },
+    {
+        "id": 35,
+        "chefId": 7,
+        "name": "Tiramisu",
+        "image": "https://images.pexels.com/photos/14766327/pexels-photo-14766327.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "eggs",
+            "sugar",
+            "mascarpone cheese",
+            "ladyfingers",
+            "strong coffee",
+            "cocoa powder",
+            "rum",
+            "salt"
+        ],
+        "method": "1. Brew strong coffee and let cool to room temperature.\n2. Separate egg yolks from egg whites.\n3. Beat egg yolks with sugar in a large mixing bowl until thick and pale yellow in color.\n4. Add mascarpone cheese to the egg yolk mixture and beat until smooth.\n5. In a separate mixing bowl, beat egg whites with salt until stiff peaks form.\n6. Gently fold egg whites into the egg yolk mixture.\n7. In a shallow dish, combine cooled coffee and rum.\n8. Dip ladyfingers into the coffee mixture and arrange in a single layer in the bottom of a serving dish.\n9. Spoon half of the mascarpone mixture on top of the ladyfingers.\n10. Repeat with another layer of soaked ladyfingers and the remaining mascarpone mixture.\n11. Cover and refrigerate for at least 2 hours, or overnight.\n12. Before serving, dust the top with cocoa powder.",
+        "rating": 4.9,
+        "price": 34
+    },
+    {
+        "id": 36,
+        "chefId": 8,
+        "name": "Spaghetti Carbonara",
+        "image": "https://images.pexels.com/photos/4969892/pexels-photo-4969892.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "spaghetti",
+            "pancetta",
+            "egg yolks",
+            "Parmesan cheese",
+            "heavy cream",
+            "garlic",
+            "olive oil",
+            "salt",
+            "black pepper"
+        ],
+        "method": "1. Cook spaghetti according to package instructions, until al dente.\n2. While spaghetti is cooking, cut pancetta into small pieces.\n3. In a large skillet, heat olive oil over medium heat.\n4. Add garlic and pancetta to the skillet, cooking until pancetta is crispy and garlic is fragrant.\n5. In a separate mixing bowl, whisk together egg yolks, grated Parmesan cheese, heavy cream, salt, and black pepper.\n6. When spaghetti is cooked, reserve about 1/2 cup of the cooking water.\n7. Drain the spaghetti and add it to the skillet with the pancetta and garlic.\n8. Toss to combine, adding reserved cooking water as needed to loosen the pasta.\n9. Remove the skillet from heat and add the egg yolk mixture, stirring quickly to combine.\n10. The heat from the spaghetti and skillet will cook the eggs and form a creamy sauce.\n11. Season with additional salt and black pepper to taste.\n12. Serve hot, garnished with additional grated Parmesan cheese if desired.",
+        "rating": 4.4,
+        "price": 76
+    },
+    {
+        "id": 37,
+        "chefId": 8,
+        "name": "Chicken Parmesan",
+        "image": "https://images.pexels.com/photos/14846852/pexels-photo-14846852.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "boneless, skinless chicken breasts",
+            "all-purpose flour",
+            "eggs",
+            "Italian breadcrumbs",
+            "olive oil",
+            "marinara sauce",
+            "shredded mozzarella cheese",
+            "grated Parmesan cheese",
+            "fresh basil leaves"
+        ],
+        "method": "1. Preheat oven to 375°F.\n2. Pound chicken breasts to an even thickness.\n3. Place flour in a shallow dish, beat eggs in another shallow dish, and place breadcrumbs in a third shallow dish.\n4. Dredge each chicken breast in flour, shaking off excess.\n5. Dip each chicken breast into the beaten eggs, then coat with breadcrumbs.\n6. Place breaded chicken breasts on a plate.\n7. Heat olive oil in a large skillet over medium-high heat.\n8. Add the breaded chicken breasts to the skillet and cook until golden brown on both sides, about 3-4 minutes per side.\n9. Remove the chicken from the skillet and place on a baking sheet.\n10. Spoon marinara sauce over each chicken breast.\n11. Top each chicken breast with shredded mozzarella cheese and grated Parmesan cheese.\n12. Bake in the preheated oven for 15-20 minutes, or until cheese is melted and bubbly.\n13. Remove from oven and let cool for a few minutes before garnishing with fresh basil leaves and serving.",
+        "rating": 4.7,
+        "price": 65
+    },
+    {
+        "id": 38,
+        "chefId": 8,
+        "name": "Lasagna",
+        "image": "https://images.pexels.com/photos/4079520/pexels-photo-4079520.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "lasagna noodles",
+            "ground beef",
+            "onion",
+            "garlic",
+            "marinara sauce",
+            "ricotta cheese",
+            "mozzarella cheese",
+            "Parmesan cheese",
+            "egg",
+            "fresh parsley",
+            "salt",
+            "black pepper"
+        ],
+        "method": "1. Preheat oven to 375°F.\n2. Cook lasagna noodles according to package instructions, until al dente.\n3. In a large skillet, cook ground beef over medium heat until browned.\n4. Add chopped onion and minced garlic to the skillet and cook until onion is translucent.\n5. Stir in marinara sauce and simmer for 10 minutes.\n6. In a separate mixing bowl, combine ricotta cheese, 1 1/2 cups of mozzarella cheese, 1/2 cup of grated Parmesan cheese, beaten egg, chopped parsley, salt, and black pepper.\n7. Spread a thin layer of the meat sauce in the bottom of a 9x13 inch baking dish.\n8. Place a layer of cooked lasagna noodles on top of the meat sauce.\n9. Spread a layer of the cheese mixture on top of the noodles.\n10. Repeat with another layer of meat sauce, noodles, and cheese mixture.\n11. Sprinkle remaining mozzarella and Parmesan cheese over the top of the lasagna.\n12. Cover with foil and bake for 25 minutes.\n13. Remove foil and bake for an additional 25 minutes, or until cheese is melted and bubbly.\n14. Let cool for a few minutes before slicing and serving.",
+        "rating": 4.8,
+        "price": 53
+    },
+    {
+        "id": 39,
+        "chefId": 8,
+        "name": "Risotto",
+        "image": "https://images.pexels.com/photos/921362/pexels-photo-921362.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "arborio rice",
+            "olive oil",
+            "onion",
+            "garlic",
+            "white wine",
+            "chicken broth",
+            "Parmesan cheese",
+            "salt",
+            "black pepper",
+            "fresh parsley"
+        ],
+        "method": "1. Heat olive oil in a large skillet over medium heat.\n2. Add chopped onion and minced garlic to the skillet and cook until onion is translucent.\n3. Add arborio rice to the skillet and cook, stirring frequently, until lightly toasted and fragrant.\n4. Pour in white wine and cook, stirring constantly, until wine is absorbed.\n5. Add chicken broth to the skillet, one ladleful at a time, stirring constantly and waiting for the broth to be absorbed before adding the next ladleful.\n6. Continue adding broth and stirring until the rice is tender and the mixture is creamy, about 20-25 minutes.\n7. Stir in grated Parmesan cheese and season with salt and black pepper to taste.\n8. Garnish with chopped fresh parsley before serving.",
+        "rating": 4.5,
+        "price": 43
+    },
+    {
+        "id": 40,
+        "chefId": 8,
+        "name": "Panna Cotta",
+        "image": "https://images.pexels.com/photos/14732341/pexels-photo-14732341.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "heavy cream",
+            "milk",
+            "sugar",
+            "vanilla extract",
+            "unflavored gelatin",
+            "water",
+            "fresh berries or fruit, for garnish"
+        ],
+        "method": "1. In a saucepan, heat heavy cream, milk, and sugar over medium heat until sugar dissolves and mixture is hot but not boiling.\n2. Remove from heat and stir in vanilla extract.\n3. In a separate bowl, sprinkle unflavored gelatin over 1/4 cup of cold water and let stand for 5 minutes.\n4. Add the gelatin mixture to the cream mixture and stir until dissolved.\n5. Pour mixture into ramekins or dessert cups and refrigerate until set, at least 2 hours.\n6. To serve, run a knife around the edge of the ramekin or dessert cup and invert onto a plate.\n7. Garnish with fresh berries or fruit before serving.",
+        "rating": 4.3,
+        "price": 49
+    }
+]

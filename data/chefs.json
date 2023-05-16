@@ -1,0 +1,76 @@
+[
+    {
+      "id": 1,
+      "picture": "https://i.ibb.co/nbCzgfC/chef-portrait-2.jpg",
+      "name": "Giovanni Rossi",
+      "experience": 12,
+      "recipes": 80,
+      "likes": 1500,
+      "bio": "Giovanni Rossi is a veteran chef with over 12 years of experience in the Italian culinary world. He specializes in traditional dishes from various regions of Italy, and has a keen eye for presentation. He is known for his attention to detail and passion for his craft."
+    },
+    {
+      "id": 2,
+      "picture": "https://i.ibb.co/SPKMbgb/chef-portrait-1.jpg",
+      "name": "Maria Bianchi",
+      "experience": 8,
+      "recipes": 40,
+      "likes": 1000,
+      "bio": "Maria Bianchi is a rising star in the world of Italian cuisine. She has worked in some of the most prestigious kitchens in Italy, and has a talent for combining traditional techniques with modern flair. She is passionate about using fresh, seasonal ingredients to create dishes that are both delicious and visually stunning."
+    },
+    {
+      "id": 3,
+      "picture": "https://i.ibb.co/nbCzgfC/chef-portrait-2.jpg",
+      "name": "Antonio Russo",
+      "experience": 15,
+      "recipes": 100,
+      "likes": 3000,
+      "bio": "Francesca Esposito is a young chef with a fresh perspective on Italian cuisine. She has trained with some of the best chefs in Italy, and has a talent for creating bold, innovative dishes that push the boundaries of traditional Italian cooking. She is passionate about sustainability and ethical sourcing, and strives to create dishes that are both delicious and eco-friendly."
+    },
+    {
+      "id": 4,
+      "picture": "https://i.ibb.co/ckBQF0s/chef-portrait-3.jpg",
+      "name": "Francesca Esposito",
+      "experience": 5,
+      "recipes": 20,
+      "likes": 500,
+      "bio": "Francesca Esposito is a young chef with a fresh perspective on Italian cuisine. She has trained with some of the best chefs in Italy, and has a talent for creating bold, innovative dishes that push the boundaries of traditional Italian cooking. She is passionate about sustainability and ethical sourcing, and strives to create dishes that are both delicious and eco-friendly."
+    },
+    {
+      "id": 5,
+      "picture": "https://i.ibb.co/nbCzgfC/chef-portrait-2.jpg",
+      "name": "Marco Conti",
+      "experience": 10,
+      "recipes": 60,
+      "likes": 1200,
+      "bio": "Marco Conti is a dynamic chef with a flair for showmanship. He has a decade of experience in the Italian culinary world, and is known for his innovative plating techniques and creative use of ingredients. He is passionate about using food as a medium for storytelling, and strives to create dishes that are both beautiful and meaningful."
+    },
+    {
+      "id": 6,
+      "picture": "https://i.ibb.co/QYMrxk6/chef-portrait-4.jpg",
+      "name": "Luigi Ricci",
+      "experience": 3,
+      "recipes": 10,
+      "likes": 200,
+      "bio": "Luigi Ricci is a dynamic chef with a flair for showmanship. He has a decade of experience in the Italian culinary world, and is known for his innovative plating techniques and creative use of ingredients. He is passionate about using food as a medium for storytelling, and strives to create dishes that are both beautiful and meaningful."
+
+    },
+    {
+        "id": 7,
+        "picture": "https://i.ibb.co/nbCzgfC/chef-portrait-2.jpg",
+        "name": "Giovanni Rossi",
+        "experience": 12,
+        "recipes": 80,
+        "likes": 1500,
+        "bio": "Giovanni Rossi is a veteran chef with over 12 years of experience in the Italian culinary world. He specializes in traditional dishes from various regions of Italy, and has a keen eye for presentation. He is known for his attention to detail and passion for his craft."
+      },
+      {
+        "id": 8,
+        "picture": "https://i.ibb.co/SPKMbgb/chef-portrait-1.jpg",
+        "name": "Maria Bianchi",
+        "experience": 8,
+        "recipes": 40,
+        "likes": 1000,
+        "bio": "Maria Bianchi is a rising star in the world of Italian cuisine. She has worked in some of the most prestigious kitchens in Italy, and has a talent for combining traditional techniques with modern flair. She is passionate about using fresh, seasonal ingredients to create dishes that are both delicious and visually stunning."
+      }
+  ]
+  
